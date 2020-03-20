@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8a2aa32-beda-433e-a82f-6408821f41d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstTEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/AddUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/GetCaseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/GetUserInfoListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/GetUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/MyHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/UpdateUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/dianZan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/cases/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/config/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/domain/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/domain/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/domain/ProjectCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/AddUserCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/GetCaseListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/GetUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/GetUserListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/InterfaceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/LoginCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/UpdateUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/model/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/utils/BaseClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/utils/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/utils/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/utils/myAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/databaseConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/userManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/AddUserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/GetCaseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/GetUserInfoListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/GetUserInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/MyHttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/UpdateUserInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/dianZan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/cases/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/config/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/config/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/config/TestConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/domain/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/domain/Project.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/domain/ProjectCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/AddUserCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/GetCaseListCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/GetUserInfoCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/GetUserListCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/InterfaceName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/LoginCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/UpdateUserInfoCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/model/user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/utils/BaseClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/utils/ConfigFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/utils/DatabaseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tester/utils/myAssert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/databaseConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SQLMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/AddUserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/GetCaseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/GetUserInfoListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/GetUserInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/MyHttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/UpdateUserInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/dianZan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/cases/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/config/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/config/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/config/TestConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/domain/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/domain/Project.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/domain/ProjectCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/AddUserCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/GetCaseListCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/GetUserInfoCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/GetUserListCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/InterfaceName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/LoginCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/UpdateUserInfoCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/model/user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/utils/BaseClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/utils/ConfigFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/utils/DatabaseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tester/utils/myAssert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/userManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/firstTEST-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNFzcPqStjyIwZ8I4rlIg9Fig4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\src\main\java\com" />
+      <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/Administrator/IdeaProjects/firstTEST/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstTEST" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Administrator/IdeaProjects/firstTEST/src/main/resources/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8a2aa32-beda-433e-a82f-6408821f41d3" name="Default Changelist" comment="" />
+      <created>1584671907775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584671907775</updated>
+      <workItem from="1584671912756" duration="1156000" />
+      <workItem from="1584673091786" duration="353000" />
+      <workItem from="1584673773287" duration="555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
