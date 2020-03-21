@@ -80,9 +80,9 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>
-                            ./src/main/resources/testng.xml
+<!--                            ./src/main/resources/testng.xml-->
+                            testng.xml
                         </suiteXmlFile>
-
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

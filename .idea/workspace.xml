@@ -3,6 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="d8a2aa32-beda-433e-a82f-6408821f41d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/AddUserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/GetCaseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/GetUserInfoListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/GetUserInfoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/MyHttpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/UpdateUserInfoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/dianZan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/cases/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/config/ExtentTestNGIReporterListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/config/ExtentTestNGIReporterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/config/TestConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/domain/Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/domain/Project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/domain/ProjectCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/AddUserCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/GetCaseListCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/GetUserInfoCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/GetUserListCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/InterfaceName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/LoginCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/UpdateUserInfoCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/model/user.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/utils/BaseClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/utils/ConfigFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/utils/DatabaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tester/utils/myAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +56,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\target" />
       <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\src\main\java\com" />
       <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\src\main\resources" />
       <recent name="C:\Users\Administrator\IdeaProjects\firstTEST\src\main\java" />
@@ -77,7 +108,8 @@
       <updated>1584671907775</updated>
       <workItem from="1584671912756" duration="1156000" />
       <workItem from="1584673091786" duration="353000" />
-      <workItem from="1584673773287" duration="1447000" />
+      <workItem from="1584673773287" duration="2648000" />
+      <workItem from="1584786005538" duration="3709000" />
     </task>
     <servers />
   </component>
