@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8a2aa32-beda-433e-a82f-6408821f41d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstTEST-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +80,7 @@
       <workItem from="1584673091786" duration="353000" />
       <workItem from="1584673773287" duration="2648000" />
       <workItem from="1584786005538" duration="4123000" />
-      <workItem from="1584844067041" duration="1827000" />
+      <workItem from="1584844067041" duration="3740000" />
     </task>
     <servers />
   </component>
