@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8a2aa32-beda-433e-a82f-6408821f41d3" name="Default Changelist" comment="" />
+    <list default="true" id="d8a2aa32-beda-433e-a82f-6408821f41d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tester/run/TestngRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZNFzcPqStjyIwZ8I4rlIg9Fig4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -46,7 +59,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/Administrator/IdeaProjects/firstTEST/src/main/resources/testng.xml">
+    <configuration name="TestngRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tester.run.TestngRun" />
+      <module name="firstTEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tester.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/Administrator/IdeaProjects/firstTEST/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstTEST" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
@@ -60,6 +86,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/Administrator/IdeaProjects/firstTEST/src/main/resources/testng.xml" />
+        <item itemvalue="Application.TestngRun" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +103,7 @@
       <workItem from="1584671912756" duration="1156000" />
       <workItem from="1584673091786" duration="353000" />
       <workItem from="1584673773287" duration="1335000" />
+      <workItem from="1585275416663" duration="1585000" />
     </task>
     <servers />
   </component>
